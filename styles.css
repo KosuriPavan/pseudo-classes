@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
- body{
+ :root{
 	 background-color:rgb(135,206,235)
  }
 p:first-child{
